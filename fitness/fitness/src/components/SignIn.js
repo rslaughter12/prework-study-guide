@@ -42,7 +42,7 @@ const SignIn = () => {
                 />
               </Grid>
             </Grid>
-            <Link Link to='/'type="submit" fullWidth variant="contained" color="primary" style={{ marginTop: 20 }}>
+            <Link Link to='/dashboard'type="submit" fullWidth variant="contained" color="primary" style={{ marginTop: 20 }}>
                     Sign In
             </Link>
           </form>
